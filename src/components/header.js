@@ -1,13 +1,7 @@
-/* eslint-disable */
 import React from "react"
 import PropTypes from 'prop-types'
 import { Link } from "gatsby"
 import styled from "styled-components"
-
-// eslint-disable-next-line
-// interface HeaderProps {
-//   siteTitle: string  // here not any should sting but in the layout return object not find a solution!
-// }
 
 const HeaderStyle = styled.header`
   background-color: #333;

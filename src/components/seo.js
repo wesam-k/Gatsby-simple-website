@@ -3,12 +3,6 @@ import { Helmet } from "react-helmet"
 import { useStaticQuery, graphql } from "gatsby"
 import PropTypes from "prop-types"
 
-// interface SEOProps {
-//   description?: string
-//   lang?: string
-//   meta?: Array<{ name: string; content: string }>
-//   title: string
-// }
 
 const SEO = ({ description, lang, meta, title }) => {
   const { site } = useStaticQuery(

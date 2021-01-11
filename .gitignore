@@ -1,1 +1,4 @@
 node_modules
+.catch
+.DS_Store
+public

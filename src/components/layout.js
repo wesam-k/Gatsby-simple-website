@@ -7,15 +7,6 @@ import Header from "./header"
 import Menu from "./menu"
 import "./layout.css"
 
-// want to use TS but not work // bug
-// interface LayoutProps {
-//   children: ReactNode ,
-//     // site: {
-//     //   siteMetadata: {
-//     //     title: string;
-//     //   },
-//     // },
-//   };
 
   const Wrapper = styled.div`
   margin: 0 auto;
