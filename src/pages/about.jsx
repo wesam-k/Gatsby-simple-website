@@ -17,7 +17,6 @@ const AboutPage = () => (
         laborum quis laboris voluptate laboris amet eu dolore minim dolore.
         Dolor ad eu adipisicing ex. Nisi sint in nulla et excepteur nulla sit.
       </p>
-    <Link to="/">Go back to the homepage</Link>
     </Layout>
   )
 

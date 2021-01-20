@@ -18,6 +18,10 @@ exports.components = {
     import(
       "./../../../src/pages/index.jsx" /* webpackChunkName: "component---src-pages-index-jsx" */
     ),
+  "component---src-pages-recipes-jsx": () =>
+    import(
+      "./../../../src/pages/recipes.jsx" /* webpackChunkName: "component---src-pages-recipes-jsx" */
+    ),
   "component---src-pages-services-jsx": () =>
     import(
       "./../../../src/pages/services.jsx" /* webpackChunkName: "component---src-pages-services-jsx" */

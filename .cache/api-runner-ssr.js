@@ -37,7 +37,7 @@ var plugins = [
     plugin: require("/Users/wesam.alkfere/Traning utils/contentful/gatsby-course/node_modules/gatsby-plugin-mdx/gatsby-ssr"),
     options: {
       plugins: [],
-      extension: [".md", ".mx"],
+      extension: [".md", ".mdx", ".mx"],
       gatsbyRemarkPlugins: [
         { resolve: "gatsby-remark-images", options: { maxWidth: 1200 } },
       ],

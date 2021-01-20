@@ -1,0 +1,238 @@
+{
+  "expireTime": 9007200865807971000,
+  "key": "transformer-remark-markdown-html-ast-6e1882862f1b272f421a739e78b5b6f5--",
+  "val": {
+    "type": "root",
+    "children": [
+      {
+        "type": "element",
+        "tagName": "h3",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Instructions",
+            "position": {
+              "start": { "line": 1, "column": 5, "offset": 4 },
+              "end": { "line": 1, "column": 17, "offset": 16 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 1, "column": 1, "offset": 0 },
+          "end": { "line": 1, "column": 17, "offset": 16 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Pizza Recipe No Oven No Yeast ( This recipe makes 1 LARGE PIZZA, u can easily double or triple the recipe):",
+            "position": {
+              "start": { "line": 2, "column": 1, "offset": 17 },
+              "end": { "line": 2, "column": 108, "offset": 124 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 2, "column": 1, "offset": 17 },
+          "end": { "line": 2, "column": 108, "offset": 124 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "140g Self Rising Flour ( 1 cup )",
+                "position": {
+                  "start": { "line": 4, "column": 3, "offset": 128 },
+                  "end": { "line": 4, "column": 35, "offset": 160 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 4, "column": 1, "offset": 126 },
+              "end": { "line": 4, "column": 35, "offset": 160 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "140g Any plain Yogurt ( 5 ounces )",
+                "position": {
+                  "start": { "line": 5, "column": 3, "offset": 163 },
+                  "end": { "line": 5, "column": 37, "offset": 197 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 5, "column": 1, "offset": 161 },
+              "end": { "line": 5, "column": 37, "offset": 197 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 4, "column": 1, "offset": 126 },
+          "end": { "line": 5, "column": 37, "offset": 197 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "h3",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Substitutes",
+            "position": {
+              "start": { "line": 7, "column": 5, "offset": 203 },
+              "end": { "line": 7, "column": 16, "offset": 214 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 7, "column": 1, "offset": 199 },
+          "end": { "line": 7, "column": 16, "offset": 214 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "I highly recommend using yogurt and flour but if u can't find these here are the substitutes):",
+            "position": {
+              "start": { "line": 8, "column": 1, "offset": 215 },
+              "end": { "line": 8, "column": 95, "offset": 309 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 8, "column": 1, "offset": 215 },
+          "end": { "line": 8, "column": 95, "offset": 309 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Yogurt can be substituted for milk BUT add only 85 grams of milk (1/3 cup) + 1/2 tsp vinegar or lemon juice.",
+            "position": {
+              "start": { "line": 10, "column": 1, "offset": 311 },
+              "end": { "line": 10, "column": 109, "offset": 419 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 10, "column": 1, "offset": 311 },
+          "end": { "line": 10, "column": 109, "offset": 419 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "p",
+        "properties": {},
+        "children": [
+          {
+            "type": "text",
+            "value": "Self rising flour can be made TWO ways:",
+            "position": {
+              "start": { "line": 12, "column": 1, "offset": 421 },
+              "end": { "line": 12, "column": 40, "offset": 460 }
+            }
+          }
+        ],
+        "position": {
+          "start": { "line": 12, "column": 1, "offset": 421 },
+          "end": { "line": 12, "column": 40, "offset": 460 }
+        }
+      },
+      { "type": "text", "value": "\n" },
+      {
+        "type": "element",
+        "tagName": "ul",
+        "properties": {},
+        "children": [
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "140 grams of plain flour + 1 1/2 tsp baking powder ( 1 cup + 1 1/2 tsp baking powder)",
+                "position": {
+                  "start": { "line": 14, "column": 3, "offset": 464 },
+                  "end": { "line": 14, "column": 88, "offset": 549 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 14, "column": 1, "offset": 462 },
+              "end": { "line": 14, "column": 88, "offset": 549 }
+            }
+          },
+          { "type": "text", "value": "\n" },
+          {
+            "type": "element",
+            "tagName": "li",
+            "properties": {},
+            "children": [
+              {
+                "type": "text",
+                "value": "140 grams of plain flour + 1/2 tsp baking soda ( 1 cup + 1/2 tsp baking soda)",
+                "position": {
+                  "start": { "line": 15, "column": 3, "offset": 552 },
+                  "end": { "line": 15, "column": 80, "offset": 629 }
+                }
+              }
+            ],
+            "position": {
+              "start": { "line": 15, "column": 1, "offset": 550 },
+              "end": { "line": 15, "column": 80, "offset": 629 }
+            }
+          },
+          { "type": "text", "value": "\n" }
+        ],
+        "position": {
+          "start": { "line": 14, "column": 1, "offset": 462 },
+          "end": { "line": 15, "column": 80, "offset": 629 }
+        }
+      }
+    ],
+    "position": {
+      "start": { "line": 1, "column": 1, "offset": 0 },
+      "end": { "line": 15, "column": 80, "offset": 629 }
+    }
+  }
+}

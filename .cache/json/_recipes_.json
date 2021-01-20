@@ -1,0 +1,63 @@
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "title": "Gatsby Beginner Course",
+        "author": "@gatsbyjs"
+      }
+    },
+    "allContentfulRecipes": {
+      "edges": [
+        {
+          "node": {
+            "title": "PIZZA",
+            "author": "wesam",
+            "image": {
+              "file": {
+                "url": "//images.ctfassets.net/fhh56hdpgk71/2dhcqgKP2GmHGORThvTqvR/aa66ee68343ac4cced03cb11bbae0eda/pizza.jpg"
+              }
+            },
+            "description": {
+              "childMarkdownRemark": {
+                "html": "<h3>Instructions</h3>\n<p>Pizza Recipe No Oven No Yeast ( This recipe makes 1 LARGE PIZZA, u can easily double or triple the recipe):</p>\n<ul>\n<li>140g Self Rising Flour ( 1 cup )</li>\n<li>140g Any plain Yogurt ( 5 ounces )</li>\n</ul>\n<h3>Substitutes</h3>\n<p>I highly recommend using yogurt and flour but if u can't find these here are the substitutes):</p>\n<p>Yogurt can be substituted for milk BUT add only 85 grams of milk (1/3 cup) + 1/2 tsp vinegar or lemon juice.</p>\n<p>Self rising flour can be made TWO ways:</p>\n<ul>\n<li>140 grams of plain flour + 1 1/2 tsp baking powder ( 1 cup + 1 1/2 tsp baking powder)</li>\n<li>140 grams of plain flour + 1/2 tsp baking soda ( 1 cup + 1/2 tsp baking soda)</li>\n</ul>"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "title": "BUTTER CHICKEN",
+            "author": "wesam",
+            "image": {
+              "file": {
+                "url": "//images.ctfassets.net/fhh56hdpgk71/70UL8Ss5aJewSHkOciFMY8/05fe9307f9242f686a50726e90b37ea5/Butter-Chicken.jpg"
+              }
+            },
+            "description": {
+              "childMarkdownRemark": {
+                "html": "<h3>Ingredients</h3>\n<ul>\n<li>For the chicken</li>\n<li>300 gms Chicken breast boneless</li>\n<li>1 tbsp Ginger garlic paste</li>\n<li>1 tbsp Red chilli powder</li>\n<li>Salt to taste</li>\n<li>Oil to pan fry</li>\n</ul>\n<h3>For the gravy</h3>\n<ul>\n<li>500 gms roughly slit tomatoes</li>\n<li>100 gms roughly cut onions</li>\n<li>1 tbsp garlic paste</li>\n<li>50 gms cashew</li>\n<li>1 tsp kasoori methi</li>\n<li>1/2 tsp garam masala</li>\n<li>4 tbsp sugar</li>\n<li>2 tbsp kashmiri chilli powder</li>\n<li>5 tbsp butter</li>\n<li>3 tbsp cream</li>\n<li>2 tbsp malt vinegar / 1.5 tbsp White Vinegar</li>\n<li>Salt to taste</li>\n</ul>\n<h3>Method</h3>\n<ul>\n<li>Marinate the chicken with ginger paste, garlic paste, red chili powder, and salt and keep it aside for 15 to 20 minutes</li>\n<li>In a pan heat, some oil then fries the marinated chicken pieces in it, once done place it into a bowl.</li>\n<li>In the same pan add onion, oil, a spoonful of butter and once the onions are cooked add tomatoes and cashew nuts</li>\n<li>Add some water and garlic paste, salt, malt vinegar, sugar, garam masala powder, and chili powder. Evenly mix it and let it simmer for 15-20 minutes</li>\n<li>Churn the mixture into a fine puree.</li>\n<li>Strain it back into the same pan make sure there is minimal wastage.</li>\n<li>Add butter, cream, chicken and kasoori meethi and let it simmer for 5-7 minutes.</li>\n<li>Garnish it with cream and kasoori meethi Butter Chicken is ready to be served!</li>\n</ul>"
+              }
+            }
+          }
+        },
+        {
+          "node": {
+            "title": "AVOCADO SALAD",
+            "author": "wesam",
+            "image": {
+              "file": {
+                "url": "//images.ctfassets.net/fhh56hdpgk71/2grIUCKt9aHDUyawu7SAGR/73a6e29a2326007b00438e7f40d7c826/avocadoSalad.jpg"
+              }
+            },
+            "description": {
+              "childMarkdownRemark": {
+                "html": "<h3>Ingredients</h3>\n<p>1 lb cherry tomatoes 3 cobs of corn, grilled and shucked 2 large avocados, peeled, pitted and sliced 1/2 medium red onion, thinly sliced 1/4 cup cilantro, chopped (1/2 small bunch) 2 Tbsp extra virgin olive oil 2 Tbsp lime juice (from 2 limes) 2 garlic cloves, pressed or finely minced 1 tsp sea salt or 3/4 tsp table salt</p>\n<h3>Preparation</h3>\n<ul>\n<li>In a pan heat, some oil then fries the marinated chicken pieces in it, once done place it into a bowl.</li>\n<li>In the same pan add onion, oil, a spoonful of butter and once the onions are cooked add tomatoes and cashew nuts</li>\n<li>Add some water and garlic paste, salt, malt vinegar, sugar, garam masala powder, and chili powder. Evenly mix it and let it simmer for 15-20 minutes</li>\n<li>Churn the mixture into a fine puree.</li>\n<li>Strain it back into the same pan make sure there is minimal wastage.</li>\n<li>Add butter, cream, chicken and kasoori meethi and let it simmer for 5-7 minutes.</li>\n<li>Garnish it with cream and kasoori meethi Butter Chicken is ready to be served!</li>\n</ul>"
+              }
+            }
+          }
+        }
+      ]
+    }
+  },
+  "pageContext": {}
+}

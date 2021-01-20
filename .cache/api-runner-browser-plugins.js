@@ -26,7 +26,7 @@ module.exports = [
     plugin: require("../node_modules/gatsby-plugin-mdx/gatsby-browser.js"),
     options: {
       plugins: [],
-      extension: [".md", ".mx"],
+      extension: [".md", ".mdx", ".mx"],
       gatsbyRemarkPlugins: [
         { resolve: "gatsby-remark-images", options: { maxWidth: 1200 } },
       ],

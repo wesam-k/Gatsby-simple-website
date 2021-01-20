@@ -39,6 +39,13 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `templates`,
+        path: `${__dirname}/src/templates`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `gatsby-starter-default`,
@@ -53,7 +60,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-mdx`,
       options: {
-        extension: [`.md`, `.mx`],
+        extension: [`.md`, `.mdx`, `.mx`],
         gatsbyRemarkPlugins: [
           {
             resolve: `gatsby-remark-images`,
@@ -67,7 +74,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-fonts`,
       options: {
-        fonts: [`roboto mono`, `muli\:400,400i,700,700i`],
+        fonts: [`roboto mono`, `muli:400,400i,700,700i`],
         display: "swap",
       },
     },
@@ -78,5 +85,6 @@ module.exports = {
         accessToken: process.env.CONTENTFUL_ACCESS_TOKEN,
       },
     },
+    `@contentful/gatsby-transformer-contentful-richtext`,
   ],
 };

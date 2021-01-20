@@ -24,6 +24,11 @@ exports.components = {
       require("/Users/wesam.alkfere/Traning utils/contentful/gatsby-course/src/pages/index.jsx")
     )
   ),
+  "component---src-pages-recipes-jsx": hot(
+    preferDefault(
+      require("/Users/wesam.alkfere/Traning utils/contentful/gatsby-course/src/pages/recipes.jsx")
+    )
+  ),
   "component---src-pages-services-jsx": hot(
     preferDefault(
       require("/Users/wesam.alkfere/Traning utils/contentful/gatsby-course/src/pages/services.jsx")
