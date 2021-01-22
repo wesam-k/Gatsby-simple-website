@@ -1,5 +1,7 @@
 const path = require("path");
 
+const RecipePageComponent = path.resolve(`./src/templates/RecipePage.jsx`);
+
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
@@ -11,16 +13,6 @@ exports.createPages = ({ graphql, actions }) => {
             node {
               title
               slug
-              image {
-                file {
-                  url
-                }
-              }
-              description {
-                childMarkdownRemark {
-                  html
-                }
-              }
             }
           }
         }
@@ -32,22 +24,16 @@ exports.createPages = ({ graphql, actions }) => {
         throw result.errors;
       }
 
-      const blogPost = path.resolve(`./src/templates/Recipes-contentful.jsx`);
       const posts = result.data.allContentfulRecipes.edges;
 
-      // posts.forEach((post, index) => {
-      //   const previous =
-      //     index === posts.length - 1 ? null : posts[index + 1].node;
-      //   const next = index === 0 ? null : posts[index - 1].node;
-
-      createPage({
-        path: posts.node.slug,
-        component: blogPost,
-        context: {
-          slug: posts.node.slug,
-          // previous,
-          // next,
-        },
+      posts.forEach((post) => {
+        createPage({
+          path: post.node.slug,
+          component: RecipePageComponent,
+          context: {
+            slug: post.node.slug,
+          },
+        });
       });
     })
     .catch((error) => console.log("Error from contentful date", error));

@@ -3,30 +3,34 @@ import { Link } from "gatsby";
 import styled from "styled-components";
 
 const Wrapper = styled.div`
-  background-color: #f4f4f4;
-  padding-top: 10px;
+    background-color: #F4F4F4;
+    padding-top: 10px;
 `;
-
 const MenuStyle = styled.ul`
   list-style: none;
   display: flex;
   justify-content: space-evenly;
 `;
+const LinkStyle = styled(Link)`
+  color: #333;
+  text-decoration: none;
+`;
+
 
 const Menu = () => (
   <Wrapper>
     <MenuStyle>
       <li>
-        <Link to="/">Home</Link>
+        <LinkStyle to="/">Home</LinkStyle>
       </li>
       <li>
-        <Link to="/services">Services</Link>
+        <LinkStyle to="/services">Services</LinkStyle>
       </li>
       <li>
-        <Link to="/recipes/">Recipes</Link>
+        <LinkStyle to="/recipes/">Recipes</LinkStyle>
       </li>
       <li>
-        <Link to="/about">About</Link>
+        <LinkStyle to="/about">About</LinkStyle>
       </li>
     </MenuStyle>
   </Wrapper>

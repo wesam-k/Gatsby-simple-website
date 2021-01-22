@@ -1,8 +1,8 @@
 import React from "react";
 import { Link } from "gatsby";
-import styled from "styled-components";
+import styled,{ css} from "styled-components";
 
-import Layout from "../components/layout";
+import Layout from "../layout/main";
 import Image from "../components/image";
 import SEO from "../components/seo";
 
@@ -12,20 +12,18 @@ const Wrapper = styled.div`
   padding: 1.45rem 1.0875rem;
 `;
 
-const HomePage = () =>(
-    <Layout>
-      <SEO title="Home" />
-      <h1>Welcome to my first Gatsby website</h1>
-      <p>This is a sample site for the Gatsby beginner course</p>
-      <Wrapper>
-        <Image />
-      </Wrapper>
-      <Link to="/services/">Our Services</Link> <br />
-      <Link to="/recipes/">Recipes</Link> <br />
-      <Link to="/about/">About Us</Link> <br />
-    </Layout>
-  );
-
-
+const HomePage = () => (
+  <Layout>
+    <SEO title="Home" />
+    <h1>Welcome to my first Gatsby website</h1>
+    <p>This is a sample site for the Gatsby beginner course</p>
+    <Wrapper>
+      <Image />
+    </Wrapper>
+    <Link to="/services/">Our Services</Link> <br />
+    <Link to="/recipes/">Recipes</Link> <br />
+    <Link to="/about/">About Us</Link> <br />
+  </Layout>
+);
 
 export default HomePage;

@@ -5,7 +5,8 @@ import PropTypes from "prop-types";
 
 import Header from "./header";
 import Menu from "./menu";
-import "./layout.css";
+import GlobalProvider from "../styles/GlobalProvider"
+
 
 const Wrapper = styled.div`
   margin: 0 auto;
@@ -30,18 +31,18 @@ const Layout = ({ children }) => {
     }
   `);
   return (
-    <>
+    <GlobalProvider>
       <Header siteTitle={data.site.siteMetadata?.title || `Title`} />
       <Menu />
       <Wrapper>
         <main>{children}</main>
-          <LinkStyle to="/">Go back to the homepage</LinkStyle>
+        <LinkStyle to="/">Go back to the homepage</LinkStyle>
         <FooterStyle>
-            © {new Date().getFullYear()}, Built with Wesam
-            {` `}
+          © {new Date().getFullYear()}, Built with Wesam
+          {` `}
         </FooterStyle>
       </Wrapper>
-    </>
+    </GlobalProvider>
   );
 };
 
