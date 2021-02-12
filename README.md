@@ -17,8 +17,12 @@
 <img align="left" alt="GraphQL" hover="GraphQL" width="26px" src="https://user-images.githubusercontent.com/53225954/107755891-b1405b80-6d23-11eb-815d-8d046b993281.png" />
 <img align="left" alt="Styled-components" hover="Styled-components" width="26px" src="https://user-images.githubusercontent.com/53225954/106741691-52405f80-661c-11eb-90f6-85333ec484cc.png" />
 
+<br/>
+<br/>
 - Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/).
 - Create a space, add sample content, and deploy a Gatsby site in minutes, all through the [Contentful CLI](https://www.contentful.com/developers/docs/tutorials/general/get-started/)
 - A query language for APIs is [GraphQL](https://graphql.org/)
 
+<br/>
+<br/>
 <!-- AUTO-GENERATED-CONTENT:END -->
