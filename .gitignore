@@ -1,13 +1,15 @@
-/node_modules
-.catch
+# Dependency directories
+node_modules/
+jspm_packages/
 
 
+# gatsby files
+.catch/
+public
 
+
+# dotenv environment variables file
 .env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.loca
 
 # Text editor files
 .vscode
@@ -28,7 +30,7 @@ npm-debug.log*
 .cache/
 public
 
-graph.png
+
 # Project files
 markets.json
 package-lock.json
