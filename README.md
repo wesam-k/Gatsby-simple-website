@@ -19,7 +19,7 @@
 
 <br/>
 <br/>
-##
+
   - Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.com/).<br/>
   - Create a space, add sample content, and deploy a Gatsby site in minutes, all through the [Contentful CLI](https://www.contentful.com/developers/docs/tutorials/general/get-started/)<br/>
   - A query language for APIs is [GraphQL](https://graphql.org/)<br/>
