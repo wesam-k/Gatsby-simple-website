@@ -1,0 +1,37 @@
+/node_modules
+.catch
+
+
+
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.loca
+
+# Text editor files
+.vscode
+
+
+# Optional npm cache directory
+.npm
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Optional eslint cache
+.eslintcache
+
+# gatsby files
+.cache/
+public
+
+graph.png
+# Project files
+markets.json
+package-lock.json
+
+# Mac files
+.DS_Store
