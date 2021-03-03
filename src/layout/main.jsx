@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
 import { useStaticQuery, graphql, Link } from "gatsby";
 import styled, {css} from "styled-components";
 import PropTypes from "prop-types";
@@ -10,7 +10,8 @@ import GlobalProvider from "../styles/GlobalProvider";
 const Inner = styled.div`
   margin: 0 auto;
   max-width: 960px;
-  padding: 1.45rem 1.0875rem;
+  padding-top: 1.0875rem;
+  padding-left: 40px;
 `;
 const FooterStyle = styled.footer`
   margin-top: 2rem;
@@ -52,6 +53,7 @@ const Layout = ({ children, disable = false }) => {
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
+  disable:PropTypes.bool,
 };
 
 export default Layout;

@@ -10,6 +10,7 @@ const MenuStyle = styled.ul`
   list-style: none;
   display: flex;
   justify-content: space-evenly;
+  padding-left:60px;
 `;
 const LinkStyle = styled(Link)`
   color: #333;

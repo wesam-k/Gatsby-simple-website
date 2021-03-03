@@ -9,7 +9,7 @@ import SEO from "../components/seo";
 const Wrapper = styled.div`
   margin-bottom: 1.45rem;
   max-width: 300px;
-  padding: 1.45rem 1.0875rem;
+  padding-top: 1.0875rem;
 `;
 
 const Inner = styled.div`
