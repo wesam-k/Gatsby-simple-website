@@ -11,7 +11,7 @@
 
 ## 🎓 Tools 
 <ul>
-  <li>Gatsby <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" /> </li>
+  <li><h4>Gatsby<h4/> <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" /> </li>
    <li></li>
    <li></li>
    <li></li> 
