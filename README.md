@@ -1,4 +1,4 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
+
 <h1 align="center">
   Welcome to my first Gatsby website</h1>
     <p>This is a simple site that represented the menu of recipes. created by Gatsby Reactjs and the data flow from the Contentful CMS. I used GraphQL to consume all the Contentful data and Styled-Components to render style</p>
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-<h3>Usage<h3/>
+##Usage
 
 ```
 gatsby develop
@@ -36,4 +36,4 @@ npm run develop
   
 <br/>
 <br/>
-<!-- AUTO-GENERATED-CONTENT:END -->
+
