@@ -6,6 +6,7 @@
 [Demo](https://gatsby-simple-website.netlify.app/)
 
 <br/>
+
 ![gatsby](https://user-images.githubusercontent.com/53225954/125204439-aa3f5a00-e27d-11eb-91b8-6f081b533a83.jpg)
 
 
@@ -18,7 +19,7 @@
    <li>Styled-Components <img align="left" alt="Styled-components" hover="Styled-components" width="26px" src="https://user-images.githubusercontent.com/53225954/106741691-52405f80-661c-11eb-90f6-85333ec484cc.png" /></li>
    <li>Babel <img align="left" alt="Babel" hover="Babel" width="26px" src="https://user-images.githubusercontent.com/53225954/125204052-90047c80-e27b-11eb-827a-e49e83a2d5ea.png" /></li>
   <li>ESlint <img align="left" alt="ESlint" hover="ESlint" width="26px" src="https://user-images.githubusercontent.com/53225954/125204056-92ff6d00-e27b-11eb-9c03-f124cebaa1f8.png" /></li>
-  
+ 
   <ul/>
    
 
