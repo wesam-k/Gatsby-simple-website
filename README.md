@@ -23,7 +23,7 @@
 <br/>
 <br/>
 
-##Usage
+### Usage
 
 ```
 gatsby develop
