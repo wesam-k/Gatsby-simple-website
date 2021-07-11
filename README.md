@@ -5,12 +5,13 @@
 
 [Demo](https://gatsby-simple-website.netlify.app/)
 
-
+<br/>
 ![gatsby](https://user-images.githubusercontent.com/53225954/125204439-aa3f5a00-e27d-11eb-91b8-6f081b533a83.jpg)
 
 
 ## 🎓 Tools 
    - Gatsby &emsp;  <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" />
+   - ![React](https://user-images.githubusercontent.com/53225954/125204423-909e1280-e27d-11eb-88cd-3e3bca1f2103.png)
    - ReactJS &emsp;  <img align="left" alt="ReactJS" hover="ReactJS" width="26px" src="https://user-images.githubusercontent.com/53225954/125204423-909e1280-e27d-11eb-88cd-3e3bca1f2103.png![Uploading gatsby.jpg…]()
 " />
    - Contentful CMS  &emsp;<img align="left" alt="Contentful" hover="Contentful" width="26px" src="https://user-images.githubusercontent.com/53225954/106741683-4fde0580-661c-11eb-9254-42574ed18def.jpg" />
