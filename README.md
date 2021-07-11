@@ -11,7 +11,7 @@
 
 ## 🎓 Tools 
 * Gatsby <img align="left" alt="Gatsby" hover="Gatsby" width="26px" src="https://user-images.githubusercontent.com/53225954/106741689-52405f80-661c-11eb-8304-6408a057944a.png" /> 
-* ReactJS <img align="left" alt="ReactJS" hover="ReactJS" width="26px" src="https://user-images.githubusercontent.com/53225954/125205084-c1337b80-e280-11eb-91b7-8cbd3fc5a59d.png" />
+* ReactJS <img align="left" alt="ReactJS" hover="ReactJS" width="26px" src="https://user-images.githubusercontent.com/53225954/125205128-17082380-e281-11eb-8ba5-e7d70965a4b8.png" />
 * Contentful CMS <img align="left" alt="Contentful" hover="Contentful" width="26px" src="https://user-images.githubusercontent.com/53225954/106741683-4fde0580-661c-11eb-9254-42574ed18def.jpg" />
 * GraphQL <img align="left" alt="GraphQL" hover="GraphQL" width="26px" src="https://user-images.githubusercontent.com/53225954/107755891-b1405b80-6d23-11eb-815d-8d046b993281.png" />
 * Styled-Components <img align="left" alt="Styled-components" hover="Styled-components" width="26px" src="https://user-images.githubusercontent.com/53225954/106741691-52405f80-661c-11eb-90f6-85333ec484cc.png" />
